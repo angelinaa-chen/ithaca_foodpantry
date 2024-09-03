@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDDw3QAWRvOENbR-oO8Hxe_q7z0CTd36ig</string>
+	<key>GCM_SENDER_ID</key>
+	<string>579804333934</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>angelinaa-chen.foodaccess</string>
+	<key>PROJECT_ID</key>
+	<string>swiftui-5b6f7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftui-5b6f7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:579804333934:ios:160215a408d1d248dce37f</string>
+</dict>
+</plist>
